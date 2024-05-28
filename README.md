@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+👨‍🔬 I am Ligardi, a student at Universitas Padjadjaran in Indonesia. I am developing a web application that serves as a page directory for small businesses in the Jatinangor area of Indonesia, aiming to provide significant exposure to them because a lot of them have yet to have a personal website.
+
+✨ My Abilities 
+- HTML
+- CSS, Sass, Bootstrap, TailwindCSS
+- Eleventy, Hugo, AlpineJS.
+  
+🎓 Currently Learning:
+- Bulma CSS;
+- React;
+- Astro.
+
+Interested to working together? Slide through DM!
+  
 <!--
 **ligardi/ligardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
